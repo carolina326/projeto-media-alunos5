@@ -5,7 +5,7 @@ def calcular_media():
     nota2 = float(input("Digite a segunda nota: "))
     nota3 = float(input("Digite a terceira nota: "))
     
-     # Calcular a média ponderada
+    # Calcular a média ponderada
     media = (nota1 + nota2 + (nota3 * 2)) / 4
     
     # Exibir a média
